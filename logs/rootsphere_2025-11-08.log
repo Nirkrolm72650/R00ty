@@ -1,0 +1,94 @@
+[2025-11-08 16:03:28] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:03:28] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:03:28] [INFO] discord.client: logging in using static token
+[2025-11-08 16:03:30] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 9b4c2b51fe7ec4b9e375ff1af883a63e).
+[2025-11-08 16:10:41] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:10:41] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:10:41] [INFO] discord.client: logging in using static token
+[2025-11-08 16:10:42] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 116216a8565a5c34403940d30dbbec7e).
+[2025-11-08 16:11:48] [ERROR] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "rssnow" is not found
+[2025-11-08 16:12:55] [ERROR] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "rssnow" is not found
+[2025-11-08 16:15:57] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:15:57] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:15:57] [INFO] discord.client: logging in using static token
+[2025-11-08 16:17:28] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:17:28] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:17:28] [INFO] discord.client: logging in using static token
+[2025-11-08 16:18:05] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:18:05] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:18:05] [INFO] discord.client: logging in using static token
+[2025-11-08 16:18:06] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS multi-catégorie...
+[2025-11-08 16:18:07] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: fed843c4b128cf2df95ed5ba3074cdfe).
+[2025-11-08 16:18:09] [INFO] r00ty: 🔍 Vérification des flux RSS par catégorie...
+[2025-11-08 16:18:55] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:22:45] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:22:45] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:22:45] [INFO] discord.client: logging in using static token
+[2025-11-08 16:22:45] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS enrichie...
+[2025-11-08 16:22:46] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: b617e1629f5ae80bde79bc9929a37716).
+[2025-11-08 16:22:48] [INFO] r00ty: 🔍 Vérification des flux RSS avec enrichissement...
+[2025-11-08 16:22:49] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:22:59] [INFO] r00ty: 🔍 Vérification des flux RSS avec enrichissement...
+[2025-11-08 16:23:00] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:23:18] [INFO] r00ty: 🔍 Vérification des flux RSS avec enrichissement...
+[2025-11-08 16:23:20] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:26:35] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:26:35] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:26:35] [INFO] discord.client: logging in using static token
+[2025-11-08 16:26:35] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS enrichie...
+[2025-11-08 16:26:36] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: b2efde91aa508fef26bf2f7fbff659dd).
+[2025-11-08 16:26:38] [INFO] r00ty: 🔍 Vérification des flux RSS avec enrichissement...
+[2025-11-08 16:26:41] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:26:50] [INFO] r00ty: 🔍 Vérification des flux RSS avec enrichissement...
+[2025-11-08 16:26:51] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:29:15] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:29:15] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:29:15] [INFO] discord.client: logging in using static token
+[2025-11-08 16:29:16] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS enrichie...
+[2025-11-08 16:29:17] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7b690ce493921de2c0dd63c09142f584).
+[2025-11-08 16:29:19] [INFO] r00ty: 🔍 Vérification des flux RSS avec enrichissement...
+[2025-11-08 16:29:30] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:34:28] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:34:28] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:34:28] [INFO] discord.client: logging in using static token
+[2025-11-08 16:34:29] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS enrichie...
+[2025-11-08 16:34:30] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: eaab358e5d83a28cb34171942c3e6eb7).
+[2025-11-08 16:34:32] [INFO] r00ty: 🔍 Vérification des flux RSS enrichis...
+[2025-11-08 16:34:35] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:35:08] [INFO] r00ty: 🔍 Vérification des flux RSS enrichis...
+[2025-11-08 16:35:11] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:37:42] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:37:42] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:37:42] [INFO] discord.client: logging in using static token
+[2025-11-08 16:37:43] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS enrichie...
+[2025-11-08 16:37:44] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: b4b269cd0f9b623b9b22618e1d66a77d).
+[2025-11-08 16:37:46] [INFO] r00ty: 🔍 Vérification des flux RSS enrichis...
+[2025-11-08 16:37:58] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:41:57] [INFO] r00ty: 🔍 Vérification des flux RSS enrichis...
+[2025-11-08 16:42:01] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:42:05] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:42:05] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:42:05] [INFO] discord.client: logging in using static token
+[2025-11-08 16:42:06] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS stylisée...
+[2025-11-08 16:42:07] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: d012aa8cd2232b634fbc25c98e02426d).
+[2025-11-08 16:42:09] [INFO] r00ty: 🔍 Vérification des flux RSS stylisés...
+[2025-11-08 16:42:12] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:47:55] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:47:55] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:47:55] [INFO] discord.client: logging in using static token
+[2025-11-08 16:47:56] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS stylisée...
+[2025-11-08 16:47:57] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: c49dacda8dbdb12d54cacd5f3a79bd75).
+[2025-11-08 16:47:59] [INFO] r00ty: 🔍 Vérification des flux RSS stylisés...
+[2025-11-08 16:48:11] [INFO] r00ty: ✅ Vérification RSS terminée.
+[2025-11-08 16:51:35] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:51:35] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:51:35] [INFO] discord.client: logging in using static token
+[2025-11-08 16:54:49] [INFO] utils.logger: ✅ Logger initialisé.
+[2025-11-08 16:54:49] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2025-11-08 16:54:49] [INFO] discord.client: logging in using static token
+[2025-11-08 16:54:50] [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: ac96d0158cb9e2113bd2ee53663de64a).
+[2025-11-08 16:54:52] [INFO] r00ty: 🕒 Démarrage de la tâche périodique RSS stylisée...
+[2025-11-08 16:54:52] [INFO] r00ty: 🔍 Vérification des flux RSS...
+[2025-11-08 16:54:55] [INFO] r00ty: ✅ Vérification RSS terminée.
